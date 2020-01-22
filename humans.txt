@@ -1,4 +1,5 @@
 some other developer changes not mine
+i have made chnages this time
 # humanstxt.org/
 # new file to demonstrate ammend commit command
 # The humans responsible & technology colophon
