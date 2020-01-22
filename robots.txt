@@ -1,4 +1,4 @@
-check how rebase with feature branch works
+new robot changes in featuer
 # www.robotstxt.org/
 
 # Allow crawling of all content
