@@ -1,5 +1,4 @@
-new feature added as a part of 20.0
-added new feature one more as a part of 20.0
+some other developer changes not mine
 # humanstxt.org/
 # new file to demonstrate ammend commit command
 # The humans responsible & technology colophon
